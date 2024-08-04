@@ -1,4 +1,4 @@
-# AWS-DeepRacer-Reward-Function
+# AWS-DeepRacer
 
 We have recently participated in an internal event at Barclays, organized by the AWS team, focusing on AWS DeepRacer— a reinforcement learning-based autonomous racing platform. During this event, We engaged in extensive hyperparameter tuning and developed a custom reward function to optimize our model's performance. Our efforts culminated in achieving a best lap time of 7.922 seconds, securing a position in the top 20 teams.
 
